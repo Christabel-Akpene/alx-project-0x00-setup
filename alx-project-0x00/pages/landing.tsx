@@ -10,9 +10,9 @@ const Landing: React.FC = () => {
                 Button Component
             </h4>
             <div className="flex items-center space-x-2">
-                <Button title="Small" shape="rounded-sm" size="small"/>
-                <Button title="Medium" shape="rounded-md" size="medium"/>
-                <Button title="Large" shape="rounded-lg" size="large"/>
+                <Button title="Small" shape="rounded-sm" size="small" styles=""/>
+                <Button title="Medium" shape="rounded-md" size="medium" styles=""/>
+                <Button title="Large" shape="rounded-full" size="large" styles=""/>
             </div>
         </div>
     )
