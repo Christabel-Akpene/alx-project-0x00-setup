@@ -12,7 +12,7 @@ const Landing: React.FC = () => {
             <div className="flex items-center space-x-2">
                 <Button title="Small" shape="rounded-sm" size="small"/>
                 <Button title="Medium" shape="rounded-md" size="medium"/>
-                <Button title="Large" shape="rounded-full" size="large"/>
+                <Button title="Large" shape="rounded-lg" size="large"/>
             </div>
         </div>
     )

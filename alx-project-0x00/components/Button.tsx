@@ -8,7 +8,7 @@ const sizes = {
 const shapes = {
     "rounded-sm": "rounded-sm",
     "rounded-md": "rounded-md",
-    "rounded-full": "rounded-full"
+    "rounded-lg": "rounded-lg"
 };
 
 
